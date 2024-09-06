@@ -1,4 +1,4 @@
-<img width="125" align="center" alt="logo" src="https://github.com/user-attachments/assets/951d18e7-fda0-4459-813a-efae9027aee7">
+<img width="125" justify="center" alt="logo" src="https://github.com/user-attachments/assets/951d18e7-fda0-4459-813a-efae9027aee7">
 
 
 # Merge! roadmap 2024 - 2025
