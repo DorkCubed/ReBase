@@ -1,5 +1,6 @@
-<img width="125" justify="center" alt="logo" src="https://github.com/user-attachments/assets/951d18e7-fda0-4459-813a-efae9027aee7">
-
+<div align="center">
+    <img alt="fossunited logo" src=".github/logo.png" width="150px" height="120px">
+</div>
 
 # Merge! roadmap 2024 - 2025
 
