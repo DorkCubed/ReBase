@@ -1,6 +1,5 @@
 <img width="125" alt="logo" src="https://github.com/user-attachments/assets/951d18e7-fda0-4459-813a-efae9027aee7">
 
-
 # Merge! roadmap 2024 - 2025
 
 ## Events:
@@ -9,4 +8,10 @@
 - Workshop - Non coding FOSS
 - Apogee Hackathon
 - Talk - GSOC and beyond (contact embryo / SARC)
-- Language Shootout 
+- Language Shootout
+
+## Internal Events:
+
+- Clone and dissect - Sessions where we clone our favorite FOSS projects and try to understand the codebase.
+- Foss Hack - Internal hackathons using something FOSS to make something FOSS
+-
