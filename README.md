@@ -6,4 +6,4 @@
 - Workshop - Non coding FOSS
 - Apogee Hackathon
 - Talk - GSOC and beyond (contact embryo / SARC)
--
+- Language Shootout 
