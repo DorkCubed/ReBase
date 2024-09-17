@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+#downloads {
+  width:0;
+  height:0;
+  opacity:0;
+}
