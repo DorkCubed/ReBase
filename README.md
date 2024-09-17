@@ -2,7 +2,7 @@
     <img alt="fossunited logo" src="https://github.com/user-attachments/assets/a9388fd3-e289-47c4-a728-421f29954621" width="150px" height="120px">
 </div>
 
-# Merge! roadmap 2024 - 2025
+# ReBase! roadmap 2024 - 2025
 
 ## Events:
 
