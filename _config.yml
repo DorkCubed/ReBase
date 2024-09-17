@@ -3,5 +3,4 @@ plugins:
 - jekyll-remote-theme
 
 title: ReBase!
-description: Everything about Bits Pilani's very own foss club - ReBase!
 show_downloads: false
