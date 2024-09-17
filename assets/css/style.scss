@@ -3,8 +3,15 @@
 
 @import "{{ site.theme }}";
 
-#downloads {
-  width:0;
-  height:0;
-  opacity:0;
+.container {
+  #downloads {
+    width:0;
+    height:0;
+    opacity:0;
+  }
+
+  h2 {
+    margin:0;
+    padding:0;
+  }
 }
